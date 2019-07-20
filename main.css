@@ -1,0 +1,54 @@
+
+body{
+background: rgba(2, 10, 41, 0.96);
+margin: 0;
+font-family: 'Roboto', sans-serif;
+color: #000808;
+font-weight: lighter;
+font-size: 14px;
+}
+
+div{
+box-sizing: border-box;
+}
+
+header{
+background:#009688;
+font-size: 20px;
+font-weight: 50;
+color: #222323;
+border-radius: 5px;
+}
+
+header h1{
+  color: white;
+margin-top: 0;
+height: 70px;
+text-align: center;
+}
+
+.post{
+background: white;
+border-radius: 10px;
+}
+.post h2{
+padding: 7px;
+}
+.post p{
+padding: 7px;
+text-align: justify;
+margin-top: 50px;
+}
+.post span{
+float: left;
+padding: 0;
+margin-left: 10px;
+margin-top: 20px;
+font-size: 16px;
+}
+
+
+.container{
+width: 450px;
+margin: auto;
+}
